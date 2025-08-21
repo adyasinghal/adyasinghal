@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Google CyberSecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity#courses)  
+<!-- - 🔭 I’m currently working on [Google CyberSecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity#courses)  -->
 - 🌱 I’m currently learning about CyberSecurity  
 - 💬 Ask me about anything from food to f1!  
 - 📫 How to reach me: adya.singhal@gmail.com  
